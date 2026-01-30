@@ -368,8 +368,9 @@ This project is created for educational and portfolio purposes.
 
 ## 👤 Author
 
-Built as a production-ready full-stack demonstration project.
+YASH GUPTA
 
 ---
 
-**Note:** Remember to add `firebase-service-account.json` to `.gitignore` and never commit sensitive credentials to version control.
+
+
